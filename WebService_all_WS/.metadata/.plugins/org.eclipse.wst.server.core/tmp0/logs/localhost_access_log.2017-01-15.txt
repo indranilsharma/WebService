@@ -1,0 +1,3 @@
+127.0.0.1 - - [15/Jan/2017:23:26:45 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [15/Jan/2017:23:26:47 +0530] "GET /RESTfulExample/WEB-INF/classes/com/mkyong/common/RESTfulExample/UserRestService.java HTTP/1.1" 404 949
+127.0.0.1 - - [15/Jan/2017:23:27:06 +0530] "GET /RESTfulExample/WEB-INF/classes/com/mkyong/common/RESTfulExample/UserRestService.java/user HTTP/1.1" 404 949

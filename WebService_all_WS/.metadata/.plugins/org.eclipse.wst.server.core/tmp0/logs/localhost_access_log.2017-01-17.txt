@@ -1,0 +1,14 @@
+127.0.0.1 - - [17/Jan/2017:22:12:35 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [17/Jan/2017:22:12:37 +0530] "GET /RestPathAnotation/ HTTP/1.1" 404 987
+127.0.0.1 - - [17/Jan/2017:22:12:53 +0530] "GET /RestPathAnotation/rest/customers HTTP/1.1" 404 949
+127.0.0.1 - - [17/Jan/2017:22:15:59 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [17/Jan/2017:22:16:00 +0530] "GET /RestPathAnotation/ HTTP/1.1" 404 987
+127.0.0.1 - - [17/Jan/2017:22:16:14 +0530] "GET /RestPathAnotation/rest/customers HTTP/1.1" 404 949
+127.0.0.1 - - [17/Jan/2017:22:16:28 +0530] "GET /RestPathAnotation/rest/customers HTTP/1.1" 404 949
+127.0.0.1 - - [17/Jan/2017:23:07:10 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [17/Jan/2017:23:07:12 +0530] "GET /RestPathAnnotationExample/ HTTP/1.1" 404 1003
+127.0.0.1 - - [17/Jan/2017:23:07:48 +0530] "GET /RestPathAnnotationExample/rest/customers HTTP/1.1" 404 949
+127.0.0.1 - - [17/Jan/2017:23:09:12 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [17/Jan/2017:23:09:13 +0530] "GET /RestPathAnnotationExample/ HTTP/1.1" 404 1003
+127.0.0.1 - - [17/Jan/2017:23:09:18 +0530] "GET /RestPathAnnotationExample/rest/customers HTTP/1.1" 404 949
+127.0.0.1 - - [17/Jan/2017:23:18:12 +0530] "GET /CrunchifyWS/WEB-INF/classes/crunchify/com/web/service/CrunchifyHelloWorld.java HTTP/1.1" 404 949

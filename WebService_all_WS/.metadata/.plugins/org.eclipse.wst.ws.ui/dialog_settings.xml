@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="0/org.eclipse.jst.ws.wsImpl.java">
+		<item value="com.mypack.webservices.HelloWorld"/>
+		<item value="com.mypack.weservices.HelloWorld"/>
+		<item value="com.mypack.weservices"/>
+		<item value="com.mypack.webservices.HelloWorld.java"/>
+		<item value="HelloWorldService"/>
+	</list>
+</section>

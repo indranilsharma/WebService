@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;springrest-servlet.xml, web.xml&apos; to &apos;webapp&apos;" description="Move 2 resources to &apos;webapp&apos;" destination="src/main/webapp" element1="WebContent/WEB-INF/springrest-servlet.xml" element2="WebContent/WEB-INF/web.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1484763795818" updateReferences="true"/>
+</session>

@@ -1,0 +1,5 @@
+package com.mkyong.common.RESTfulExample;
+
+public class UserRestService {
+
+}
